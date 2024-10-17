@@ -24,3 +24,10 @@
 • Дата коммитов в репозитории.
 
 Все функции визуализатора зависимостей должны быть покрыты тестами.
+
+![конфигурашка1](https://github.com/user-attachments/assets/1fcabf30-48d5-48a1-aacd-e20bee07d6ee)
+
+![graph_commits](https://github.com/user-attachments/assets/894703d3-7da3-4f13-9bce-03a4cd3c6647)
+
+
+
